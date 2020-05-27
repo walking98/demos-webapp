@@ -4,6 +4,7 @@
 
 ## 编译
 
-mvn clean package
-然后把.war文件部署到tomcat对应的webapp目录
+1. mvn clean package
+
+2. 然后把.war文件部署到tomcat对应的webapp目录
 
